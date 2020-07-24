@@ -6,14 +6,21 @@
   >
     <img src="https://img.shields.io/badge/-My%20Portfolio-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
   </a>
-  <a
-    href="https://web.whatsapp.com/send?phone=+5541997835546" 
-    alt="WhatsApp"
+    <a
+    href="https://github.com/PauloPHLP/"
+    alt="GitHub"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-000000?style=flat-square&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white" />
   </a>
-  <a
+    <a
+    href="https://www.linkedin.com/in/paulo-lima-1218a9149/" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+    <a
     href="mailto:paulo.phlp@outlook.com" 
     alt="Outlook"
     target="blank"
@@ -21,18 +28,11 @@
     <img src="https://img.shields.io/badge/-Outlook-000000?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a
-    href="https://www.linkedin.com/in/paulo-lima-1218a9149/" 
-    alt="LinkedIn"
+    href="https://web.whatsapp.com/send?phone=+5541997835546" 
+    alt="WhatsApp"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a
-    href="https://github.com/PauloPHLP/"
-    alt="GitHub"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-000000?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
   <a
     href="https://www.instagram.com/pauleta_mexicana" 

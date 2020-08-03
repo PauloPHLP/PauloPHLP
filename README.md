@@ -46,7 +46,7 @@
   🎓 Graduate in <b>System Analysis and Development</b> &nbsp;
 </p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Full Stack Student at <b>Rocketseat</b> &nbsp; 🎯 Focused in <b>React.js</b>, <b>Node.js</b> and <b>React Native</b>
+  🎯 Focus in <b>React.js</b>, <b>Node.js</b> and <b>React Native</b>
 </p>
 
 <p align="center">

@@ -50,7 +50,7 @@
 </p>
 
 <div align="center">
-  https://github-readme-stats-one-eta.vercel.app/api?username=PauloPHLP&show_icons=true&hide_border=true
+  (https://github-readme-stats-one-eta.vercel.app/api?username=PauloPHLP&show_icons=true&hide_border=true)
 </div>
 
 <p align="center">

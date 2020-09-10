@@ -53,6 +53,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PauloPHLP&show_icons=true&theme=synthwave" />
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloPHLP&layout=compact&theme=synthwave" />
+</a>
+
 <p align="center">
   JavaScript | React.js | Node.js | React Native | HTML | CSS | Bootstrap | Bulma | Git
 </p>

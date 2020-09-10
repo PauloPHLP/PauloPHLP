@@ -6,6 +6,13 @@
   >
     <img src="https://img.shields.io/badge/-My%20Portfolio-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
   </a>
+   <a
+    href="https://www.linkedin.com/in/paulo-lima-1218a9149/" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
   <a
     href="mailto:paulo.phlp@outlook.com" 
     alt="Outlook"
@@ -20,10 +27,13 @@
   >
     <img src="https://img.shields.io/badge/-WhatsApp-000000?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
-  
-  [<img alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
-  [<img alt="Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-  [<img alt="Medium" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QkSzer_aYnx_DQExVcYPVAHaHa%26pid%3DApi&f=1"/>][medium]
+  <a
+    href="https://www.instagram.com/pauleta_mexicana" 
+    alt="Instagram"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=Instagram&logoColor=white" />
+  </a>
 </p>
 
 <h4 align="center">
@@ -42,8 +52,3 @@
 <p align="center">
   JavaScript | React.js | Node.js | React Native | HTML | CSS | Bootstrap | Bulma | Git
 </p>
-
-[dextra]: https://dextra.com.br/pt/
-[linkedin]: https://www.linkedin.com/in/paulo-lima-1218a9149/
-[instagram]: https://www.instagram.com/pauleta_mexicana
-[medium]: https://medium.com/@itspaulolimahimself

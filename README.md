@@ -49,6 +49,8 @@
   🎯 Focus in <b>React.js</b>, <b>Node.js</b> and <b>React Native</b>
 </p>
 
+![teste](https://github-readme-stats-one-eta.vercel.app/api?username=PauloPHLP&show_icons=true&hide_border=true)
+
 <p align="center">
   JavaScript | React.js | Node.js | React Native | HTML | CSS | Bootstrap | Bulma | Git
 </p>

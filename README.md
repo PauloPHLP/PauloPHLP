@@ -11,7 +11,7 @@
     alt="LinkedIn"
     target="blank"
   >
-    <img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+    <img width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
   </a>
   <a
     href="mailto:paulo.phlp@outlook.com" 

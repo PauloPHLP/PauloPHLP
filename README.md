@@ -49,7 +49,7 @@
   🎯 Focus in <b>React.js</b>, <b>Node.js</b> and <b>React Native</b>
 </p>
 
-![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=PauloPHLP&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloPHLP&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=PauloPHLP&show_icons=true&theme=synthwave) &nbsp [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloPHLP&layout=compact&theme=synthwave)](https://github.com/PauloPHLP/github-readme-stats)
 
 <p align="center">
   JavaScript | React.js | Node.js | React Native | HTML | CSS | Bootstrap | Bulma | Git

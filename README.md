@@ -24,8 +24,8 @@
   <img src="images/technologies/node.svg" width="5%"/> &nbsp;
   <img src="images/technologies/html.svg" width="5%"/> &nbsp;
   <img src="images/technologies/css.svg" width="5%"/> &nbsp;
-  <img src="images/technologies/bootstrap.svg" width="5%"/>
-  <img src="images/technologies/material.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/bootstrap.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/material.svg" width="5%"/> 
   <img src="images/technologies/bulma.svg" width="5%"/> &nbsp;
 </p>
 

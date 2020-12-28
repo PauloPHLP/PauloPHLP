@@ -49,10 +49,16 @@
   <img src="images/tools/trello.svg" width="5%" /> &nbsp;
 </p>
 
-
-<h2 align="center">
-  Where to find me 🗺️
+<h3 align="center">
+  My activities 📊️
 </h2>
+
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=paulophlp&theme=radical" alt="stats"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulophlp&layout=compact&theme=radical" alt="languages"/>
+
+<h4 align="center">
+  Where to find me 🗺️
+</h4>
 
 <p align=center>
   <a

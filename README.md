@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-   👔️ Working as a Full Stack Software Engineer at <b>Cinq Technologies/Dextra Digital</b> 
+   👔️ Working as a Full Stack Software Engineer at <b><a href="https://www.cinqtechnologies.com/">Cinq Technologies/Dextra Digital</a></b> 
    </br>
    📌 Living in <b>Curitiba</b>, <b>Parana</b>, <b>Brazil</b> &nbsp; 
    </br>

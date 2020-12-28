@@ -10,6 +10,8 @@
    📚️ Undergraduate in <b>System Analysis and Development</b> &nbsp;
 </p>
 
+<hr style="border-top: 3px dotted"/>
+
 <h3 align="center">
   Technologies that I work 👨‍💻️
 </h3>

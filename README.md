@@ -17,15 +17,15 @@
 </h3>
 
 <p align=center>
-  <img src="images/technologies/javascript.svg" width="5%"/>
-  <img src="images/technologies/typescript.svg" width="5%"/>
-  <img src="images/technologies/react.svg" width="5%"/>
-  <img src="images/technologies/native.svg" width="5%"/>
-  <img src="images/technologies/node.svg" width="5%"/>
-  <img src="images/technologies/html.svg" width="5%"/>
-  <img src="images/technologies/css.svg" width="5%"/>
-  <img src="images/technologies/bootstrap.svg" width="5%"/>
-  <img src="images/technologies/bulma.svg" width="5%"/>
+  <img src="images/technologies/javascript.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/typescript.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/react.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/native.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/node.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/html.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/css.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/bootstrap.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/bulma.svg" width="5%"/> &nbsp;
 </p>
 
 ## Tools I use

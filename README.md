@@ -53,8 +53,8 @@
   My activities 📊️
 </h2>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=paulophlp&theme=radical" alt="stats"/>
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulophlp&layout=compact&theme=radical" alt="languages"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=paulophlp&theme=radical" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulophlp&layout=compact&theme=radical" />
 
 </br>
 

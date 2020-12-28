@@ -1,4 +1,6 @@
-# Hi, there!, I'm Paulo Lima 🤘️
+<h1 align="center">
+  # Hi, there!, I'm Paulo Lima 🤘️
+</h1>
 
 ## Technologies that I work
 <p align=center><a href="https://avinal.is-a.dev/avinal"><img src="images/cplusplus-plain.svg" width=7%><img src="images/c-plain.svg" width=7%><img src="images/java-original.svg" width=7%><img src="images/python-original.svg" width=7%></a></p>

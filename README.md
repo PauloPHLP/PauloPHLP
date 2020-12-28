@@ -17,7 +17,7 @@
 </h2>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=paulophlp&theme=radical" />
+  <img width="47.8%" src="https://github-readme-stats.vercel.app/api?username=paulophlp&theme=radical" />
   &nbsp;
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulophlp&layout=compact&theme=radical" />
 </div>

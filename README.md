@@ -3,10 +3,11 @@
 </h1>
 
 <p align="center">
-  📌 Living in <b>Curitiba</b>, <b>Parana</b>, <b>Brazil</b> &nbsp; </br> 🖥️ Full Stack Software Engineer at <b>Cinq Technologies/Dextra Digital</b>
-</p>
-<p align="center">
-  🎓 Graduate in <b>System Analysis and Development</b> &nbsp;
+   🖥️ Working as a Full Stack Software Engineer at <b>Cinq Technologies/Dextra Digital</b> 
+   </br>
+   📌 Living in <b>Curitiba</b>, <b>Parana</b>, <b>Brazil</b> &nbsp; 
+   </br>
+   🎓 Graduate in <b>System Analysis and Development</b> &nbsp;
 </p>
 
 ## Technologies that I work

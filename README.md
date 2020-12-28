@@ -47,9 +47,29 @@
 </h2>
 
 <p align=center>
-  <img src="images/social/favicon.ico" width="5%" /> &nbsp;
-  <img src="images/social/git.svg" width="5%" /> &nbsp;
-  <img src="images/social/github.svg" width="5%" /> &nbsp;
-  <img src="images/social/gitlab.svg" width="5%" /> &nbsp;
-  <img src="images/social/docker.svg" width="5%" /> &nbsp;
+  <a
+    href="https://paulophlp.github.io/portfolio/"
+  >
+    <img src="images/social/favicon.ico" width="5%" /> &nbsp;
+  </a>
+  <a
+    href="https://www.linkedin.com/in/paulo-lima-1218a9149/" 
+  >
+    <img src="images/social/linkedin.svg" width="5%" /> &nbsp;
+  </a>
+  <a
+    href="mailto:paulo.phlp@outlook.com" 
+  >
+    <img src="images/social/outlook.svg" width="5%" /> &nbsp;
+  </a>
+  <a
+    href="https://web.whatsapp.com/send?phone=+5541997835546" 
+  >
+    <img src="images/social/whatsapp.svg" width="5%" /> &nbsp;
+  </a>
+  <a
+    href="https://www.instagram.com/pauleta_mexicana" 
+  >
+  <img src="images/social/instagram.svg" width="5%" /> &nbsp;
+  </a>
 </p>

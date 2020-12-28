@@ -17,14 +17,14 @@
 </h3>
 
 <p align=center>
-  <img src="images/technologies/javascript.png" width="7%"/>
-  <img src="images/technologies/react.png" width="10%"/>
-  <img src="images/technologies/native.png" width="7%"/>
-  <img src="images/technologies/node.png" width="7%"/>
-  <img src="images/technologies/html.png" width="7%"/>
-  <img src="images/technologies/css.png" width="7%"/>
-  <img src="images/technologies/bootstrap.png" width="7%"/>
-  <img src="images/technologies/bulma.png" width="7%"/>
+  <img src="images/technologies/javascript.svg" width="7%"/>
+  <img src="images/technologies/typescript.svg" width="7%"/>
+  <img src="images/technologies/react.svg" width="7%"/>
+  <img src="images/technologies/node.svg" width="7%"/>
+  <img src="images/technologies/html.svg" width="7%"/>
+  <img src="images/technologies/css.svg" width="7%"/>
+  <img src="images/technologies/bootstrap.svg" width="7%"/>
+  <img src="images/technologies/bulma.svg" width="7%"/>
 </p>
 
 ## Tools I use

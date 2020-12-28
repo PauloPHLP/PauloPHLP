@@ -25,6 +25,7 @@
   <img src="images/technologies/html.svg" width="5%"/> &nbsp;
   <img src="images/technologies/css.svg" width="5%"/> &nbsp;
   <img src="images/technologies/bootstrap.svg" width="5%"/>
+  <img src="images/technologies/material.svg" width="5%"/> &nbsp;
   <img src="images/technologies/bulma.svg" width="5%"/> &nbsp;
 </p>
 
@@ -40,5 +41,15 @@
   <img src="images/tools/docker.svg" width="5%" /> &nbsp;
 </p>
 
-## You can find me on
-<p align=center><a href="https://www.linkedin.com/in/avinal/"><img src="images/linkedin-original.svg" width=7%></a><a href="https://www.instagram.com/avinal.k/"><img src="images/instagram.svg" width=7%></a><a href="https://twitter.com/Avinal_"><img src="images/twitter-original.svg" width=7%></a><a href="https://www.facebook.com/avinal.k"><img src="images/facebook-original.svg" width=7%></a></p>
+
+<h2 align="center">
+  Where to find me 🗺️
+</h2>
+
+<p align=center>
+  <img src="images/social/favicon.ico" width="5%" /> &nbsp;
+  <img src="images/social/git.svg" width="5%" /> &nbsp;
+  <img src="images/social/github.svg" width="5%" /> &nbsp;
+  <img src="images/social/gitlab.svg" width="5%" /> &nbsp;
+  <img src="images/social/docker.svg" width="5%" /> &nbsp;
+</p>

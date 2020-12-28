@@ -35,10 +35,10 @@
   <img src="images/technologies/html.svg" width="5%"/> &nbsp;
   <img src="images/technologies/css.svg" width="5%"/> &nbsp;
   <img src="images/technologies/bootstrap.svg" width="5%"/> &nbsp;
-  <img src="images/technologies/material.svg" width="5%"/> 
-  <img src="images/technologies/bulma.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/material.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/bulma.svg" width="5%"/> 
   <img src="images/technologies/postgresql.svg" width="5%"/> &nbsp;
-  <img src="images/technologies/sqlite.svg" width="5%"/> 
+  <img src="images/technologies/sqlite.svg" width="5%"/> &nbsp;
   <img src="images/technologies/mongodb.svg" width="5%"/> &nbsp;
 </p>
 

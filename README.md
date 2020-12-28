@@ -10,10 +10,10 @@
    📚️ Undergraduate in <b>System Analysis and Development</b> &nbsp;
 </p>
 
-<h1 align="center">
+<h3 align="center">
   Technologies that I work 👨‍💻️
-</h1>
-<p align=center><a href="https://paulophlp.github.io/portfolio/"><img src="images/technologies/javascript" width=7%/></a></p>
+</h3>
+<p align=center><a href="https://paulophlp.github.io/portfolio/"><img src="images/technologies/javascript.png" width=7%/></a></p>
 
 ## Tools I use
 <p align=center><a href="https://avinal.is-a.dev/avinal"><img src="images/vscode-plain.svg" width=7%><img src="images/debian-plain.svg" width=7%><img src="images/ubuntu-plain.svg" width=7%><img src="images/gradle-plain.svg" width=7%><img src="images/github-original.svg" width=7%><img src="images/gitlab-original.svg" width=7%><img src="images/docker-original.svg" width=7%><img src="images/visualstudio-plain.svg" width=7%><img src="images/git-plain.svg" width=7%><img src="images/intellijidea.svg" width=7%><img src="images/clion.svg" width=7%><img src="images/firefox-original.svg" width=7%></a></p>

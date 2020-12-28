@@ -33,11 +33,11 @@
 </h3>
 
 <p align=center>
-  <img src="images/toos/vscode.svg" width="5%" /> &nbsp;
-  <img src="images/toos/git.svg" width="5%" /> &nbsp;
-  <img src="images/toos/github.svg" width="5%" /> &nbsp;
-  <img src="images/toos/gitlab.svg" width="5%" /> &nbsp;
-  <img src="images/toos/docker.svg" width="5%" /> &nbsp;
+  <img src="images/tools/vscode.svg" width="5%" /> &nbsp;
+  <img src="images/tools/git.svg" width="5%" /> &nbsp;
+  <img src="images/tools/github.svg" width="5%" /> &nbsp;
+  <img src="images/tools/gitlab.svg" width="5%" /> &nbsp;
+  <img src="images/tools/docker.svg" width="5%" /> &nbsp;
 </p>
 
 ## You can find me on

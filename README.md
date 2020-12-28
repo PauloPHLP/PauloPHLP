@@ -13,6 +13,15 @@
 <hr style="border-top: 1px dotted"/>
 
 <h3 align="center">
+  My activities 📊️
+</h2>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paulophlp&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulophlp&layout=compact&theme=radical" />
+</div>
+
+<h3 align="center">
   Technologies that I work 👨‍💻️
 </h3>
 
@@ -48,17 +57,6 @@
   <img src="images/tools/notion.svg" width="5%" /> &nbsp;
   <img src="images/tools/trello.svg" width="5%" /> &nbsp;
 </p>
-
-<h3 align="center">
-  My activities 📊️
-</h2>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=paulophlp&theme=radical" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulophlp&layout=compact&theme=radical" />
-</div>
-
-</br>
 
 <h4 align="center">
   Where to find me 🗺️

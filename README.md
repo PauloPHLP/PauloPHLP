@@ -1,54 +1,10 @@
-<p align="center">
-  <a
-    href="https://paulophlp.github.io/portfolio/"
-    alt="Paulo Lima's portfolio"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-My%20Portfolio-000000?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  </a>
-   <a
-    href="https://www.linkedin.com/in/paulo-lima-1218a9149/" 
-    alt="LinkedIn"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a
-    href="mailto:paulo.phlp@outlook.com" 
-    alt="Outlook"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Outlook-000000?style=flat-square&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a
-    href="https://web.whatsapp.com/send?phone=+5541997835546" 
-    alt="WhatsApp"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-WhatsApp-000000?style=flat-square&logo=WhatsApp&logoColor=white" />
-  </a>
-  <a
-    href="https://www.instagram.com/pauleta_mexicana" 
-    alt="Instagram"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=Instagram&logoColor=white" />
-  </a>
-</p>
+<p align=center># Hi, there!, I'm Paulo Lima 🤘️</p>
 
-<h4 align="center">
-  Hi, there! I'm Paulo Lima! 🤘️
-</h4>
-<p align="center">
-  📌 Living in <b>Curitiba</b>, <b>Parana</b>, <b>Brazil</b> &nbsp; 💼 Full Stack Software Engineer at <b>Cinq Technologies/Dextra Digital</b>
-</p>
-<p align="center">
-  🎓 Graduate in <b>System Analysis and Development</b> &nbsp;
-</p>
-<p align="center">
-  🎯 Focus in <b>React.js</b>, <b>Node.js</b> and <b>React Native</b>
-</p>
+## Technologies that I work
+<p align=center><a href="https://avinal.is-a.dev/avinal"><img src="images/cplusplus-plain.svg" width=7%><img src="images/c-plain.svg" width=7%><img src="images/java-original.svg" width=7%><img src="images/python-original.svg" width=7%></a></p>
 
-<p align="center">
-  JavaScript | React.js | Node.js | React Native | HTML | CSS | Bootstrap | Bulma | Git
-</p>
+## Tools I use
+<p align=center><a href="https://avinal.is-a.dev/avinal"><img src="images/vscode-plain.svg" width=7%><img src="images/debian-plain.svg" width=7%><img src="images/ubuntu-plain.svg" width=7%><img src="images/gradle-plain.svg" width=7%><img src="images/github-original.svg" width=7%><img src="images/gitlab-original.svg" width=7%><img src="images/docker-original.svg" width=7%><img src="images/visualstudio-plain.svg" width=7%><img src="images/git-plain.svg" width=7%><img src="images/intellijidea.svg" width=7%><img src="images/clion.svg" width=7%><img src="images/firefox-original.svg" width=7%></a></p>
+
+## You can find me on
+<p align=center><a href="https://www.linkedin.com/in/avinal/"><img src="images/linkedin-original.svg" width=7%></a><a href="https://www.instagram.com/avinal.k/"><img src="images/instagram.svg" width=7%></a><a href="https://twitter.com/Avinal_"><img src="images/twitter-original.svg" width=7%></a><a href="https://www.facebook.com/avinal.k"><img src="images/facebook-original.svg" width=7%></a></p>

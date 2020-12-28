@@ -17,14 +17,14 @@
 </h3>
 
 <p align=center>
-  <img src="images/technologies/javascript.png" width="7%"/>
-  <img src="images/technologies/react.png" width="7%"/>
-  <img src="images/technologies/native.png" width="7%"/>
-  <img src="images/technologies/node.png" width="7%"/>
-  <img src="images/technologies/html.png" width="7%"/>
-  <img src="images/technologies/css.png" width="7%"/>
-  <img src="images/technologies/bootstrap.png" width="7%"/>
-  <img src="images/technologies/bulma.png" width="7%"/>
+  <a href="https://avinal.is-a.dev/avinal"><img src="images/technologies/javascript.png" width="7%"/></a>
+  <a href="https://avinal.is-a.dev/avinal"><img src="images/technologies/react.png" width="7%"/></a>
+  <a href="https://avinal.is-a.dev/avinal"><img src="images/technologies/native.png" width="7%"/></a>
+  <a href="https://avinal.is-a.dev/avinal"><img src="images/technologies/node.png" width="7%"/></a>
+  <a href="https://avinal.is-a.dev/avinal"><img src="images/technologies/html.png" width="7%"/></a>
+  <a href="https://avinal.is-a.dev/avinal"><img src="images/technologies/css.png" width="7%"/></a>
+  <a href="https://avinal.is-a.dev/avinal"><img src="images/technologies/bootstrap.png" width="7%"/></a>
+  <a href="https://avinal.is-a.dev/avinal"><img src="images/technologies/bulma.png" width="7%"/></a>
 </p>
 
 ## Tools I use

@@ -17,12 +17,8 @@
 </h3>
 
 <p align=center>
-  <a href="https://paulophlp.github.io/portfolio/">
     <img src="images/technologies/javascript.png" width="14px" height="14px"/>
-  </a>
-  <a href="https://paulophlp.github.io/portfolio/">
     <img src="images/technologies/react.png" width=7%/>
-  </a>
   <a href="https://paulophlp.github.io/portfolio/">
     <img src="images/technologies/native.png" width=7%/>
   </a>

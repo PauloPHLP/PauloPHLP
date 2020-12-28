@@ -17,15 +17,15 @@
 </h3>
 
 <p align=center>
-  <img src="images/technologies/javascript.png" width="40px"/>
-  <img src="images/technologies/react.png" width="40px"/>
-  <img src="images/technologies/native.png" width="40px"/>
-  <img src="images/technologies/node.png" width="40px"/>
-  <img src="images/technologies/html.png" width="40px"/>
-  <img src="images/technologies/css.png" width="40px"/>
-  <img src="images/technologies/bootstrap.png" width="40px"/>
-  <img src="images/technologies/bulma.png" width="40px"/>
-  <img src="images/technologies/material.png" width="40px"/>
+  <img src="images/technologies/javascript.png" width="60px" height="60px"/>
+  <img src="images/technologies/react.png" width="60px" height="60px"/>
+  <img src="images/technologies/native.png" width="60px" height="60px"/>
+  <img src="images/technologies/node.png" width="60px" height="60px"/>
+  <img src="images/technologies/html.png" width="60px" height="60px"/>
+  <img src="images/technologies/css.png" width="60px" height="60px"/>
+  <img src="images/technologies/bootstrap.png" width="60px" height="60px"/>
+  <img src="images/technologies/bulma.png" width="60px" height="60px"/>
+  <img src="images/technologies/material.png" width="60px" height="60px"/>
 </p>
 
 ## Tools I use

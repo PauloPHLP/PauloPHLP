@@ -17,7 +17,7 @@
 </h3>
 
 <p align=center>
-  <img src="images/technologies/javascript.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/javascript.svg" width="5%" alt="JavaScript"/> &nbsp;
   <img src="images/technologies/typescript.svg" width="5%"/> &nbsp;
   <img src="images/technologies/react.svg" width="5%"/> &nbsp;
   <img src="images/technologies/native.svg" width="5%"/> &nbsp;

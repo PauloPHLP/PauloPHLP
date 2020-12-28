@@ -18,7 +18,7 @@
 
 <p align=center>
   <a href="https://paulophlp.github.io/portfolio/">
-    <img src="images/technologies/javascript.png" width=7%/>
+    <img src="images/technologies/javascript.png" width="14px" height="14px"/>
   </a>
   <a href="https://paulophlp.github.io/portfolio/">
     <img src="images/technologies/react.png" width=7%/>

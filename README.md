@@ -27,6 +27,9 @@
   <img src="images/technologies/bootstrap.svg" width="5%"/> &nbsp;
   <img src="images/technologies/material.svg" width="5%"/> 
   <img src="images/technologies/bulma.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/postgresql.svg" width="5%"/> &nbsp;
+  <img src="images/technologies/sqlite.svg" width="5%"/> 
+  <img src="images/technologies/mongodb.svg" width="5%"/> &nbsp;
 </p>
 
 <h3 align="center">
@@ -35,10 +38,15 @@
 
 <p align=center>
   <img src="images/tools/vscode.svg" width="5%" /> &nbsp;
+  <img src="images/tools/postman.svg" width="5%" /> &nbsp;
+  <img src="images/tools/insomnia.svg" width="5%" /> &nbsp;
+  <img src="images/tools/grafana.svg" width="5%" /> &nbsp;
   <img src="images/tools/git.svg" width="5%" /> &nbsp;
   <img src="images/tools/github.svg" width="5%" /> &nbsp;
   <img src="images/tools/gitlab.svg" width="5%" /> &nbsp;
   <img src="images/tools/docker.svg" width="5%" /> &nbsp;
+  <img src="images/tools/notion.svg" width="5%" /> &nbsp;
+  <img src="images/tools/trello.svg" width="5%" /> &nbsp;
 </p>
 
 

@@ -20,6 +20,7 @@
   <img src="images/technologies/javascript.svg" width="7%"/>
   <img src="images/technologies/typescript.svg" width="7%"/>
   <img src="images/technologies/react.svg" width="7%"/>
+  <img src="images/technologies/native.svg" width="7%"/>
   <img src="images/technologies/node.svg" width="7%"/>
   <img src="images/technologies/html.svg" width="7%"/>
   <img src="images/technologies/css.svg" width="7%"/>

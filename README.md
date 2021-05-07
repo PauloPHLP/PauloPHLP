@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-   Working as a Full Stack Web Software Engineer at <b><a href="https://www.cinqtechnologies.com/">Cinq/Dextra Digital</a></b> 👔️
+   Working as a Front-end Engineer at <b><a href="https://www.grupoboticario.com.br/en/Pages/Home.aspx">Grupo Boticário</a></b> 👔️
    </br>
    Living in <b>Curitiba</b>, <b>Parana</b>, <b>Brazil</b> &nbsp; 📌
    </br>
-   Undergraduate in <b>System Analysis and Development</b> &nbsp; 📚️
+   With a graduation in <b>System Analysis and Development</b> &nbsp; 📚️
 </p>
 
 <hr style="border-top: 1px dotted"/>

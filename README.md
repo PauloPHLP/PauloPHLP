@@ -75,7 +75,7 @@
     <img src="images/social/linkedin.svg" width="5%" /> &nbsp;
   </a>
   <a
-    href="mailto:paulo.phlp@outlook.com" 
+    href="mailto:plima.himself@gmail.com" 
   >
     <img src="images/social/outlook.svg" width="5%" /> &nbsp;
   </a>

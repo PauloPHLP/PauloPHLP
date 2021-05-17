@@ -77,7 +77,7 @@
   <a
     href="mailto:plima.himself@gmail.com" 
   >
-    <img src="images/social/gmail.png" width="6%" /> &nbsp;
+    <img src="images/social/gmail.png" width="6.5%" /> &nbsp;
   </a>
   <a
     href="https://web.whatsapp.com/send?phone=+5541997835546" 

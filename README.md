@@ -26,6 +26,7 @@
   Technologies that I work 👨‍💻️
 </h3>
 
+
 <p align=center>
   <img src="images/technologies/javascript.svg" width="5%" /> &nbsp;
   <img src="images/technologies/typescript.svg" width="5%"/> &nbsp;

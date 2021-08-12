@@ -26,7 +26,6 @@
   Technologies that I work 👨‍💻️
 </h3>
 
-
 <p align=center>
   <img src="images/technologies/javascript.svg" width="5%" /> &nbsp;
   <img src="images/technologies/typescript.svg" width="5%"/> &nbsp;
@@ -43,7 +42,6 @@
 <h3 align="center">
   Tools that I use 🖱️
 </h3>
-
 
 <p align=center>
   <img src="images/tools/vscode.svg" width="5%" /> &nbsp;

@@ -10,7 +10,6 @@
    With a graduation in <b>System Analysis and Development</b> &nbsp; 📚️
 </p>
 
-
 <hr style="border-top: 1px dotted"/>
 
 <h3 align="center">

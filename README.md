@@ -13,7 +13,7 @@
 <hr style="border-top: 1px dotted"/>
 
 <h3 align="center">
-  My activities 📊️
+  My activities &nbsp; 📊️
 </h2>
 
 <div align="center">

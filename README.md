@@ -5,7 +5,7 @@
 <p align="center">
    Working as a Front-end Engineer at <b><a href="https://swoopfunding.com/">Swoop Funding</a></b> 👔️
    </br>
-   Living in <b>Curitiba</b>, <b>Parana</b>, <b>Brazil</b> &nbsp; 📌
+   Living in <b>Curitiba</b>, <b>Parana</b>, <b>Brazil</b>&nbsp; 📌
    </br>
    With a graduation in <b>System Analysis and Development</b> &nbsp; 📚️
 </p>

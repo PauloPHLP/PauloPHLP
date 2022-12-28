@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-   Working as a Front-end Engineer at <b><a href="https://swoopfunding.com/">Swoop Funding</a></b> 👔️
+   Working as a Senior Front-end Engineer at <b><a href="https://www.headliner.app/">Headliner</a></b> 👔️
    </br>
    Living in <b>Curitiba</b>, <b>Parana</b>, <b>Brazil</b>&nbsp; 📌
    </br>
